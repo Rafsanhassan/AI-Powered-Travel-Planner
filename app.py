@@ -11,7 +11,7 @@ class TravelPlannerPromptSystem:
         self.hf_api_url = "https://api-inference.huggingface.co/models/tiiuae/falcon-7b-instruct"
 
                 # Use environment variable for API key or default to hardcoded token
-        self.hf_api_key = os.getenv('HUGGINGFACE_API_TOKEN', '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')
+        self.hf_api_key = os.getenv('HUGGINGFACE_API_TOKEN')
         
  
         

@@ -96,12 +96,6 @@ $env:HUGGINGFACE_API_TOKEN = "your_api_key_here"
 
 ---
 
-## 📸 Screenshots
-
-*(Add a few screenshots of the app interface if you'd like)*
-
----
-
 ## 🤝 Acknowledgments
 
 - Hugging Face for the Falcon model and API
@@ -109,14 +103,4 @@ $env:HUGGINGFACE_API_TOKEN = "your_api_key_here"
 
 ---
 
-## 📫 Contact
 
-Feel free to reach out if you have any questions!
-
-- GitHub: [@your_username](https://github.com/your_username)
-- Email: your.email@example.com
-```
-
----
-
-Let me know if you’d like this customized with your **actual GitHub repo name**, **username**, or **Hugging Face space name** and I’ll fill those in for you!
